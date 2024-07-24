@@ -1,6 +1,6 @@
 # 👨‍💻 Pavel Dubrovskiy - Node.js Backend Developer
 
-<img src="./GitHub_6.jpg" alt="profile_banner"/>
+<img src="./GitHub.jpg" alt="profile_banner"/>
 
 ## 🌟 About Me
 
@@ -26,7 +26,7 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 ## 📈 GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fireeflyx&show_icons=true&theme=graywhite"/></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireeflyx)]
+
 
 ---
 
@@ -112,7 +112,9 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 🏃 My activity
+<div align="center"><img src="./github-user-contribution.svg" alt="snak"/></div>
 
 <i align="center">Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</i>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=fireeflyx&color=lightgrey"/></p>
