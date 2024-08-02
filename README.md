@@ -1,6 +1,11 @@
 # 👨‍💻 Pavel Dubrovskiy - Node.js Backend Developer
 
 <img src="./profile_banner.jpg" alt="profile_banner"/>
+<div>
+  This is my <a href="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white"> CV </a>
+</div>
+
+
 
 ## 🌟 About Me
 
@@ -16,7 +21,8 @@ Hello! I'm Pavel Dubrovskiy, a third-year student at BSUIR, aspiring to pursue a
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:paveldubrovskiyit@gmail.com"> 
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://t.me/pavel_dubrovskiy">
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> 
+  
 </div>
 
 ---
